@@ -1,1 +1,1 @@
-# Progressive-web-apps-Resourses
+# Progressive web apps (PWAs) Resources
