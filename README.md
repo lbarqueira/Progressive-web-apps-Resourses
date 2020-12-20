@@ -22,6 +22,7 @@ Website | Description |
 Website | Description |
 --- | --- |
 [Progressive Web Apps in 100 Seconds // Build a PWA from Scratch](https://www.youtube.com/watch?v=sFsRylCQblw&feature=youtu.be) | What is a PWA?, build a PWA from scratch, tools and Workbox. |
+[New logic to detect PWA offline support](https://www.youtube.com/watch?v=hoEE39yB2Pg) | [To improve the user experience of installed PWAs, we plan to raise the bar of the offline capability check. PWAs that don’t provide at least a basic offline experience, will not show the install prompts.](https://docs.google.com/forms/d/e/1FAIpQLSdIkieZGy6uyOmqjBDRe1KB2mNu74K4iBI0rI2q_EfZRhT8cg/viewform) |
 
 
 ## Tools
